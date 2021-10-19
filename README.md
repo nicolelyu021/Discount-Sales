@@ -1,4 +1,7 @@
 # Discount-Sales
+
+My code is in DiscountSals.java
+
 Absolute Java Chp 8 Project 7
 
 Define a class named MultiItemSale that represents a sale of multiple items of 
