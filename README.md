@@ -1,6 +1,6 @@
 # Discount-Sales
 
-My code is in DiscountSals.java
+Code I created is in MultiItemSale.java
 
 Absolute Java Chp 8 Project 7
 
